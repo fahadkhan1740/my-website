@@ -299,24 +299,18 @@
                                                 <h4>Post Graduate Diploma in Computer Application</h4>
                                                 <span>2015 - 2016</span></div>
                                         </div>
-                                        <div class="col-6 margin-bottom50 margin-top50 no-margin-top"> Phasellus nec
-                                            gravida purus. Aliquam ac enim vel ipsum consectetur vulputate. Duis quis
-                                            feugiat neque. Pellentesque eleifend, nisi vel mattis vestibulum, est lacus
-                                            pretium quam.
+                                        <div class="col-6 margin-bottom50 margin-top50 no-margin-top"> Secured 8.41 CGPA.
                                         </div>
                                     </div>
                                     <div class="full-divider"></div>
                                     <div class="education-details">
                                         <div class="col-6 margin-bottom50 margin-top50">
-                                            <div class="flot-left">
+                                            <div class="flot-left" style="margin-right: 70px;">
                                                 <h5>Institute of Innovation in Technology & Management</h5>
                                                 <h4>Bachelor of Computer Applications</h4>
                                                 <span>2012 - 2015</span></div>
                                         </div>
-                                        <div class="col-6 margin-bottom50 margin-top50 no-margin-top"> Phasellus nec
-                                            gravida purus. Aliquam ac enim vel ipsum consectetur vulputate. Duis quis
-                                            feugiat neque. Pellentesque eleifend, nisi vel mattis vestibulum, est lacus
-                                            pretium quam.
+                                        <div class="col-6 margin-bottom50 margin-top50 no-margin-top"> Secured 69% overall.
                                         </div>
                                     </div>
                                     <div class="full-divider"></div>
