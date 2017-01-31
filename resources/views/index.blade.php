@@ -320,7 +320,7 @@
                     </div>
                 </article>
 
-                <!-- Pportfolio -->
+                <!-- Portfolio -->
                 <article class="content portfolio white-bg" id="chapterportfolio">
                     <div class="inner">
                         <h2>Portfolio</h2>
